@@ -13,12 +13,12 @@ __pycache__/
 # Environment variables
 .env
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-*.zip
-*.parquet
+# # Data files
+# *.csv
+# *.xlsx
+# *.xls
+# *.zip
+# *.parquet
 
 # VS Code
 .vscode/
